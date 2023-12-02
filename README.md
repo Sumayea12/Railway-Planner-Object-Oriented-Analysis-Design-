@@ -1,8 +1,8 @@
 # Railway-Planner-Object-Oriented-Analysis-Design-
 
 ### Description
-The Railway Planner is an object-oriented project developed as part of an analysis and design course. It is designed to facilitate the 
-scheduling and management of trains, seats allocation, and reporting functionalities for railway personnel. It's an online based reservation management system.
+The Railway Planner is designed to facilitate the scheduling and management of trains, seats allocation, and reporting functionalities for railway personnel. 
+It's an online based reservation management system.
 
 ### Features
 - User authentication and authorization
